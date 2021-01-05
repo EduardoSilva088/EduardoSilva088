@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=EduardoSilva088&hide=issues,contribs&count_private=true&show_icons=true&theme=radical)]
+
 <!--
 **EduardoSilva088/EduardoSilva088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EduardoSilva088&hide=issues,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/EduardoSilva088/github-readme-stats)
