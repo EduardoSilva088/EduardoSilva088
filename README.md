@@ -2,7 +2,7 @@
 
 [![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=EduardoSilva088&hide=issues,contribs&count_private=true&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilva088)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilva088&layout=compact)
 
 
 <!--
